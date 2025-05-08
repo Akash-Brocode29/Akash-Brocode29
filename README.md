@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash-noobcoder
+- 👋 Hi, I’m @Akash-brocode
 - 👀 I’m interested in learning new technologies like Python, Sql and 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on "Python Projects" - Beginner and Intermediate Level
