@@ -6,7 +6,7 @@
 📊 Built dashboards that improved decision speed by 15% and automated reports saving 20+ hours/month!
 🏆 Awarded the Hasthi Award, Groot Award, and received multiple performance-based bonuses for excellence 🌟
 🎓 MBA in Analytics & Marketing | B.E. in Computer Science
-📫 Reach me at akaesthetic7@gmail.com or connect on LinkedIn
+📫 Reach me at work.id0329@gmail.com or connect on LinkedIn
 🎯 Fun fact: I play the flute, enjoy calisthenics, and smash birdies on the badminton court! 🏸🎶
 
 
