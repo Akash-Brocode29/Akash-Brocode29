@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Akash-brocode
-- 👀 I’m interested in learning new technologies like Python, Sql and 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on "Python Projects" - Beginner and Intermediate Level
-- 📫 How to reach me - akaesthetic7@gmail.com
+👋 Hi, I’m @Akash-brocode
+🔍 I’m passionate about Data Analytics, specializing in SQL, Python, Power BI, and Palantir Foundry
+💡 I love turning raw data into business insights with tools like PySpark, Jupyter Notebook, and QuickBase
+🌱 Currently leveling up in Python and Advanced Data Engineering
+🤝 Open to collaborate on beginner to intermediate Python & SQL projects, especially around fraud detection, automation, and dashboarding
+📊 Built dashboards that improved decision speed by 15% and automated reports saving 20+ hours/month!
+🏆 Awarded the Hasthi Award, Groot Award, and received multiple performance-based bonuses for excellence 🌟
+🎓 MBA in Analytics & Marketing | B.E. in Computer Science
+📫 Reach me at akaesthetic7@gmail.com or connect on LinkedIn
+🎯 Fun fact: I play the flute, enjoy calisthenics, and smash birdies on the badminton court! 🏸🎶
 
 
 ## 🌐 Socials:
